@@ -12,7 +12,7 @@ Here are some things find about me:
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Full Stack Web Development.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&layout=compact&theme=light">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanVSrivastav&layout=compact&theme=light">
 
 - 🌱 I worked on projects of Machine Learning, WebD.
 - 👯 I’m looking to collaborate on FSD.
