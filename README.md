@@ -6,7 +6,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dev-NamanVSrivastav.NamanVSrivastav)
 
 <h3 align="">Download <a href="https://drive.google.com/file/d/137eaIMLDX2g49ewRlq4Zlkq6uHR_FiOU/view?usp=sharing">CV</a></h3>
-<h3 align="">Hire Me on <a href="https://www.linkedin.com/in/namanvsrivatav/">Linkedin</a></h3>
+<h3 align="">Hire Me on <a href="https://www.linkedin.com/in/namanvsrivatav/">LinkedIn</a></h3>
 
 Here are some things about me:
 <!-- - 🔭 I’m currently working on ... -->
@@ -18,7 +18,7 @@ Here are some things about me:
 - 👯 I’m looking to collaborate on Distributed AI.
 - 🤔 I’m looking for a Job as an ML Engineer
 - 💬 Ask me about my work.
-- 📫 How to reach me: [LinkedIn]([https](https://www.linkedin.com/in/namanvsrivatav/))
+- 📫 How to reach me: <a href ="https://www.linkedin.com/in/namanvsrivatav/">LinkedIn</a>
 - ⚡ Fun fact: Data Scientist
 
 <!-- Statistics -->
