@@ -5,12 +5,12 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dev-NamanVSrivastav.NamanVSrivastav)
 
-<h3 align="">Download <a href="https://drive.google.com/file/d/137eaIMLDX2g49ewRlq4Zlkq6uHR_FiOU/view?usp=sharing" target="_blank">CV</a></h3>
+<h3 align="">Download <a href="https://drive.google.com/file/d/137eaIMLDX2g49ewRlq4Zlkq6uHR_FiOU/view?usp=sharing">CV</a></h3>
 <h3 align="">Hire Me on <a href="">Fiver</a></h3>
 
 Here are some things find about me:
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Full Stack Web Development.
+- 🌱 I’m currently learning Quantum Computing & QML.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanVSrivastav&layout=compact&theme=light">
 
@@ -47,7 +47,8 @@ Here are some things find about me:
 
 |S.No|Name|Field|
 |---|---|---|
-|1.|Violence Detection System using Deep Lerarning and ML|Machine Learning|
+|1.|V.I.B.E : Virtual Intelligence for Business Enhancement |Machine Learning(LSTM)|
+|1.|C.A.R.D.I.A : CArdiovascular Risk prediction using DIstributed A.I. |Machine Learning(FFNN & FL)|
 
 <!-- ### End-to-End Projects : -->
 
