@@ -6,19 +6,19 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dev-NamanVSrivastav.NamanVSrivastav)
 
 <h3 align="">Download <a href="https://drive.google.com/file/d/137eaIMLDX2g49ewRlq4Zlkq6uHR_FiOU/view?usp=sharing">CV</a></h3>
-<h3 align="">Hire Me on <a href="">Fiver</a></h3>
+<h3 align="">Hire Me on <a href="https://www.linkedin.com/in/namanvsrivatav/">Linkedin</a></h3>
 
-Here are some things find about me:
+Here are some things about me:
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Quantum Computing & QML.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanVSrivastav&layout=compact&theme=light">
 
-- 🌱 I worked on projects of Machine Learning, WebD.
-- 👯 I’m looking to collaborate on FSD.
-- 🤔 I’m looking for help with new people to collaborate...
+- 🌱 I have worked on projects of Machine Learning and WebD and I am still learning and exploring new areas.
+- 👯 I’m looking to collaborate on Distributed AI.
+- 🤔 I’m looking for a Job as an ML Engineer
 - 💬 Ask me about my work.
-- 📫 How to reach me: [upd](https)
+- 📫 How to reach me: [LinkedIn]([https](https://www.linkedin.com/in/namanvsrivatav/))
 - ⚡ Fun fact: Data Scientist
 
 <!-- Statistics -->
@@ -48,7 +48,7 @@ Here are some things find about me:
 |S.No|Name|Field|
 |---|---|---|
 |1.|V.I.B.E : Virtual Intelligence for Business Enhancement |Machine Learning(LSTM)|
-|1.|C.A.R.D.I.A : CArdiovascular Risk prediction using DIstributed A.I. |Machine Learning(FFNN & FL)|
+|2.|C.A.R.D.I.A : CArdiovascular Risk prediction using DIstributed A.I. |Machine Learning(FFNN & FL)|
 
 <!-- ### End-to-End Projects : -->
 
