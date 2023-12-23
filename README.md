@@ -1,4 +1,4 @@
-# Yo Naman Here, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> (https)
+# Yo Naman Here, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> 
 
 <!-- Statistics -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NamanVSrivastav&theme=light&show_icons=true&count_private=true">
