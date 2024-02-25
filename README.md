@@ -49,6 +49,7 @@ Here are some things about me:
 |---|---|---|
 |1.|V.I.B.E : Virtual Intelligence for Business Enhancement |Machine Learning(LSTM)|
 |2.|C.A.R.D.I.A : CArdiovascular Risk prediction using DIstributed A.I. |Machine Learning(FFNN & FL)|
+|3.|Opinify: Unveiling Customer Sentiments in E-commerce with NLP|Natural Language Processing |
 
 <!-- ### End-to-End Projects : -->
 
