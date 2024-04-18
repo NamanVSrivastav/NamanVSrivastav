@@ -5,7 +5,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dev-NamanVSrivastav.NamanVSrivastav)
 
-<h3 align="">Download <a href="https://drive.google.com/file/d/13yVzj-ZI4iXP-BhY7CqypKHgOxjoi0oS/view?usp=sharing">CV</a></h3>
+<h3 align="">Download <a href="[https://drive.google.com/file/d/13yVzj-ZI4iXP-BhY7CqypKHgOxjoi0oS/view?usp=sharing](https://drive.google.com/file/d/1h_pCRNvDswzNaFsnCUYAv0ly5ihZYn2U/view?usp=drive_link)">CV</a></h3>
 <h3 align="">Hire Me on <a href="https://www.linkedin.com/in/namanvsrivatav/">LinkedIn</a></h3>
 
 Here are some things about me:
