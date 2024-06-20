@@ -52,7 +52,7 @@ Here are some things about me:
 |3.|Opinify: Unveiling Customer Sentiments in E-commerce with NLP|Natural Language Processing |
 
 <!-- ### End-to-End Projects : -->
-## [2. Cyber Security Projects :](/)
+## [3. Cyber Security Projects :](/)
 
 |S.No|Name|Field|
 |---|---|---|
@@ -62,13 +62,13 @@ Here are some things about me:
 
 <!-- ### End-to-End Projects : -->
 
-## [3. Python Games Projects :](/)
+## [4. Python Games Projects :](/)
 
 |S.No.|Project Name|Related Field|
 |---|---|---|
 |1.|[Tic Tac Toe using Pygame](https)|Python|
 
-## [4. Collaborated Projects :](/)
+## [5. Collaborated Projects :](/)
 
 ##  ✔ Technologies 
 
