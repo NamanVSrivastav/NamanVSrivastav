@@ -47,9 +47,18 @@ Here are some things about me:
 
 |S.No|Name|Field|
 |---|---|---|
-|1.|V.I.B.E : Virtual Intelligence for Business Enhancement |Machine Learning(LSTM)|
+|1.|V.I.B.E : Simple Encryption/Decryption Tool |Machine Learning(LSTM)|
 |2.|C.A.R.D.I.A : CArdiovascular Risk prediction using DIstributed A.I. |Machine Learning(FFNN & FL)|
 |3.|Opinify: Unveiling Customer Sentiments in E-commerce with NLP|Natural Language Processing |
+
+<!-- ### End-to-End Projects : -->
+## [2. Cyber Security Projects :](/)
+
+|S.No|Name|Field|
+|---|---|---|
+|1.|S.E.D.T : Virtual Intelligence for Business Enhancement |Caesar Cipher and AES algorithms|
+|2.|Basic Network Port Scanner |AES,Ceasar Cipher ,python|
+|3.|Simple Keylogger|Cipher,Security,Python |
 
 <!-- ### End-to-End Projects : -->
 
