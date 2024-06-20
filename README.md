@@ -56,7 +56,7 @@ Here are some things about me:
 
 |S.No|Name|Field|
 |---|---|---|
-|1.|S.E.D.T : Virtual Intelligence for Business Enhancement |Caesar Cipher and AES algorithms|
+|1.|S.E.D.T : Simple Encryption/Decryption Tool |Caesar Cipher and AES algorithms|
 |2.|Basic Network Port Scanner |AES,Ceasar Cipher ,python|
 |3.|Simple Keylogger|Cipher,Security,Python |
 
