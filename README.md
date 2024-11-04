@@ -19,7 +19,7 @@ Here are some things about me:
 - 🤔 I’m looking for a Job as an ML Engineer
 - 💬 Ask me about my work.
 - 📫 How to reach me: <a href ="https://www.linkedin.com/in/namanvsrivatav/">LinkedIn</a>
-- ⚡ Fun fact: Data Scientist
+
 
 <!-- Statistics -->
 
