@@ -43,7 +43,7 @@ Here are some things about me:
 |5.|<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">|[Python with Code With Harry](https://github.com/dev-mdirfan/Python-CWH.git)||
 |6.|<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">|[Python by ]()||
  -->
-## [2. Top Projects :](/)
+## [2. Top Projects :](https://github.com/NamanVSrivastav?tab=repositories)
 
 |S.No|Name|Field|
 |---|---|---|
@@ -53,7 +53,7 @@ Here are some things about me:
 |4.|[Opinify: Unveiling Customer Sentiments in E-commerce with NLP](https://github.com/NamanVSrivastav/Opinify)|Natural Language Processing |
 |5.|[Topic-Specific Chatbot with Retrieval-Augmented Generation (RAG)](https://github.com/NamanVSrivastav/RAG-Chatbot)|NLP,LLMs,RAG,VectorDb,Prompt Engg |
 <!-- ### End-to-End Projects : -->
-## [3. Cyber Security Projects :](/)
+## [3. Cyber Security Projects :](https://github.com/NamanVSrivastav/Cyber-Security)
 
 |S.No|Name|Field|
 |---|---|---|
@@ -63,13 +63,13 @@ Here are some things about me:
 
 <!-- ### End-to-End Projects : -->
 
-## [4. Python Games Projects :](/)
+## [4. Python Games Projects :]()
 
 |S.No.|Project Name|Related Field|
 |---|---|---|
-|1.|[Tic Tac Toe using Pygame](https)|Python|
+|1.|[Tic Tac Toe using Pygame]()|Python|
 
-## [5. Collaborated Projects :](/)
+## [5. Collaborated Projects :]()
 |S.No|Name|Field|
 |---|---|---|
 |1.|C.A.R.D.I.A : CArdiovascular Risk prediction using DIstributed A.I. |Machine Learning(FFNN & FL)|
