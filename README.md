@@ -47,11 +47,11 @@ Here are some things about me:
 
 |S.No|Name|Field|
 |---|---|---|
-|1.|V.I.B.E : Simple Encryption/Decryption Tool |Machine Learning(LSTM)|
-|2.|C.A.R.D.I.A : CArdiovascular Risk prediction using DIstributed A.I. |Machine Learning(FFNN & FL)|
-|3.|AI Response Evaluator | Python, WebSockets, Redis, Sentence-Transformers |
-|4.|Opinify: Unveiling Customer Sentiments in E-commerce with NLP|Natural Language Processing |
-|5.|Topic-Specific Chatbot with Retrieval-Augmented Generation (RAG) |NLP,LLMs,RAG,VectorDb,Prompt Engg |
+|1.|[V.I.B.E : Simple Encryption/Decryption Tool](https://github.com/NamanVSrivastav/V.I.B.E)|Machine Learning(LSTM)|
+|2.|[C.A.R.D.I.A : CArdiovascular Risk prediction using DIstributed A.I.](https://github.com/NamanVSrivastav/C.A.R.D.I.A) |Machine Learning(FFNN & FL)|
+|3.|[AI Response Evaluator](https://github.com/NamanVSrivastav/AI_Response_Evaluator) | Python, WebSockets, Redis, Sentence-Transformers |
+|4.|[Opinify: Unveiling Customer Sentiments in E-commerce with NLP](https://github.com/NamanVSrivastav/Opinify)|Natural Language Processing |
+|5.|[Topic-Specific Chatbot with Retrieval-Augmented Generation (RAG)](https://github.com/NamanVSrivastav/RAG-Chatbot)|NLP,LLMs,RAG,VectorDb,Prompt Engg |
 <!-- ### End-to-End Projects : -->
 ## [3. Cyber Security Projects :](/)
 
@@ -70,6 +70,7 @@ Here are some things about me:
 |1.|[Tic Tac Toe using Pygame](https)|Python|
 
 ## [5. Collaborated Projects :](/)
+|S.No|Name|Field|
 |---|---|---|
 |1.|C.A.R.D.I.A : CArdiovascular Risk prediction using DIstributed A.I. |Machine Learning(FFNN & FL)|
 
