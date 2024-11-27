@@ -49,8 +49,9 @@ Here are some things about me:
 |---|---|---|
 |1.|V.I.B.E : Simple Encryption/Decryption Tool |Machine Learning(LSTM)|
 |2.|C.A.R.D.I.A : CArdiovascular Risk prediction using DIstributed A.I. |Machine Learning(FFNN & FL)|
-|3.|Opinify: Unveiling Customer Sentiments in E-commerce with NLP|Natural Language Processing |
-
+|3.|AI Response Evaluator | Python, WebSockets, Redis, Sentence-Transformers |
+|4.|Opinify: Unveiling Customer Sentiments in E-commerce with NLP|Natural Language Processing |
+|5.|Topic-Specific Chatbot with Retrieval-Augmented Generation (RAG) |NLP,LLMs,RAG,VectorDb,Prompt Engg |
 <!-- ### End-to-End Projects : -->
 ## [3. Cyber Security Projects :](/)
 
