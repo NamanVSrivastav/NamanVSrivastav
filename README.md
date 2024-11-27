@@ -70,6 +70,9 @@ Here are some things about me:
 |1.|[Tic Tac Toe using Pygame](https)|Python|
 
 ## [5. Collaborated Projects :](/)
+|---|---|---|
+|1.|C.A.R.D.I.A : CArdiovascular Risk prediction using DIstributed A.I. |Machine Learning(FFNN & FL)|
+
 
 ##  ✔ Technologies 
 
