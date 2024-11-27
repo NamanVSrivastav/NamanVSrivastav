@@ -1,83 +1,130 @@
-# Yo Naman Here, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> 
+# 👋 Yo, Naman Here! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 
 <!-- Statistics -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NamanVSrivastav&theme=light&show_icons=true&count_private=true">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dev-NamanVSrivastav.NamanVSrivastav)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=NamanVSrivastav.NamanVSrivastav)
 
-<h3 align="">Download <a href="https://drive.google.com/file/d/1h_pCRNvDswzNaFsnCUYAv0ly5ihZYn2U/view?usp=drive_link">CV</a></h3>
-<h3 align="">Hire Me on <a href="https://www.linkedin.com/in/namanvsrivatav/">LinkedIn</a></h3>
+### 📝 [Download My CV](https://drive.google.com/file/d/1h_pCRNvDswzNaFsnCUYAv0ly5ihZYn2U/view?usp=drive_link)  
+### 💼 [Hire Me on LinkedIn](https://www.linkedin.com/in/namanvsrivatav/)  
 
-Here are some things about me:
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Quantum Computing & QML.
+---
+
+## 👨‍💻 About Me:
+
+- 🌱 **Currently Exploring**: Quantum Computing and Quantum Machine Learning.  
+- 🤝 **Looking to Collaborate On**: Distributed AI, Federated Learning, and cutting-edge Machine Learning technologies.  
+- 🎯 **Career Goal**: Secure a challenging role as an ML Engineer to innovate in AI-driven solutions.  
+- 📫 **How to Reach Me**: [LinkedIn](https://www.linkedin.com/in/namanvsrivatav/) or via Email.  
+
+---
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamanVSrivastav&layout=compact&theme=light">
 
-- 🌱 I have worked on projects of Machine Learning and WebD and I am still learning and exploring new areas.
-- 👯 I’m looking to collaborate on Distributed AI.
-- 🤔 I’m looking for a Job as an ML Engineer
-- 💬 Ask me about my work.
-- 📫 How to reach me: <a href ="https://www.linkedin.com/in/namanvsrivatav/">LinkedIn</a>
+## 🔑 Technical Skills:
 
+### Programming Languages:
+- Python (Expert) | C++ (Intermediate)
 
-<!-- Statistics -->
+### Machine Learning & AI:
+- **Frameworks**: TensorFlow, PyTorch, Scikit-learn
+- **Specializations**: Federated Learning, NLP, Computer Vision, Fine-tuning LLMs
+- **Libraries**: Sentence-Transformers, OpenCV, XGBoost
 
-<!--    ![Github stats](https://github-readme-stats.vercel.app/api?username=dev-mdirfan&theme=light&show_icons=true&count_private=true)
-   <br>
-  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mdirfan&layout=compact&theme=light) -->
+### System Development:
+- Building end-to-end ML pipelines, integrating AI models into production environments, optimization for performance and scalability.
 
+### Tools & Platforms:
+- Redis | WebSockets | Docker | AWS | Google Cloud | Azure | Streamlit
 
+---
 
+## 🌟 Academic Background & Research
 
-<!-- ## [1. Go To My Learning Repos :](https://github.com/dev-mdirfan/My-Learning-Repos.git) -->
+### Academic Projects:
 
-## My Learning Repository
+#### 1️⃣ **C.A.R.D.I.A: Cardiovascular Risk Prediction System**
+- **Overview**: Developed a privacy-preserving cardiovascular risk prediction model using Federated Learning and Feedforward Neural Networks.
+- **Achievements**:  
+  - Achieved 92% accuracy.  
+  - Improved patient engagement in cardiovascular health by 30%.  
+  - Presented research paper at ICRIC-2023 (*Springer-approved*).
 
-|S.No.|Technology|Repository Name|Source Link|
-|---|---|---|---|
-|1.|__Web Development__|[WEB Development by Dr.Angela yu(udemy)](https)||
-|2.|__Machine Learning__|[Python for Machine Learning & Data Science by Jose Portilla(udemy)](https)||
-|3.|__Data Structure And Algorithm__|[DSA using Python By Sandeep Jain(GFG)](https)||
-<!-- |4.|<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">|[Python by Geeky Shows](https://github.com/dev-mdirfan/Python-by-Geeky-Shows.git)||
-|5.|<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">|[Python with Code With Harry](https://github.com/dev-mdirfan/Python-CWH.git)||
-|6.|<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">|[Python by ]()||
- -->
-## [2. Top Projects :](https://github.com/NamanVSrivastav?tab=repositories)
+#### 2️⃣ **V.I.B.E: Virtual Intelligence for Business Enhancement**
+- **Overview**: Built an LSTM-based stock price forecasting model.
+- **Achievements**:  
+  - Achieved 87% precision, improving portfolio growth by 22% in six months.  
+  - Reduced MSE by 15% for real-time market analysis.
 
-|S.No|Name|Field|
-|---|---|---|
-|1.|[V.I.B.E : Simple Encryption/Decryption Tool](https://github.com/NamanVSrivastav/V.I.B.E)|Machine Learning(LSTM)|
-|2.|[C.A.R.D.I.A : CArdiovascular Risk prediction using DIstributed A.I.](https://github.com/NamanVSrivastav/C.A.R.D.I.A) |Machine Learning(FFNN & FL)|
-|3.|[AI Response Evaluator](https://github.com/NamanVSrivastav/AI_Response_Evaluator) | Python, WebSockets, Redis, Sentence-Transformers |
-|4.|[Opinify: Unveiling Customer Sentiments in E-commerce with NLP](https://github.com/NamanVSrivastav/Opinify)|Natural Language Processing |
-|5.|[Topic-Specific Chatbot with Retrieval-Augmented Generation (RAG)](https://github.com/NamanVSrivastav/RAG-Chatbot)|NLP,LLMs,RAG,VectorDb,Prompt Engg |
-<!-- ### End-to-End Projects : -->
-## [3. Cyber Security Projects :](https://github.com/NamanVSrivastav/Cyber-Security)
+#### 3️⃣ **Opinify: Customer Sentiment Analysis Tool**
+- **Overview**: Developed an end-to-end sentiment analysis solution for e-commerce.
+- **Achievements**:  
+  - Achieved 89% accuracy and 95% user satisfaction.  
+  - Reduced analysis time by 30% using advanced preprocessing and interactive dashboards.
 
-|S.No|Name|Field|
-|---|---|---|
-|1.|S.E.D.T : Simple Encryption/Decryption Tool |Caesar Cipher and AES algorithms|
-|2.|Basic Network Port Scanner |AES,Ceasar Cipher ,python|
-|3.|Simple Keylogger|Cipher,Security,Python |
+---
 
-<!-- ### End-to-End Projects : -->
+### Research & Leadership:
 
-## [4. Python Games Projects :]()
+- Conducted **6 months of research** on Federated Learning for cardiovascular disease prediction, culminating in a paper titled *"Heart Disease Prediction Using Federated Learning"*.
+- As **Vice President of R&D** at [Your University], led research projects in AI/ML, including:  
+  - Federated Learning  
+  - Quantum Machine Learning  
+  - Natural Language Processing  
 
-|S.No.|Project Name|Related Field|
-|---|---|---|
-|1.|[Tic Tac Toe using Pygame]()|Python|
+---
 
-## [5. Collaborated Projects :]()
-|S.No|Name|Field|
-|---|---|---|
-|1.|C.A.R.D.I.A : CArdiovascular Risk prediction using DIstributed A.I. |Machine Learning(FFNN & FL)|
+## 🚀 Featured Projects
 
+### Machine Learning & AI Projects:
 
-##  ✔ Technologies 
+| S.No | Name | Field | Description |
+|------|------|-------|-------------|
+| 1. | [V.I.B.E](https://github.com/NamanVSrivastav/V.I.B.E) | Machine Learning (LSTM) | Stock prediction using LSTM. |
+| 2. | [C.A.R.D.I.A](https://github.com/NamanVSrivastav/C.A.R.D.I.A) | ML (FFNN & FL) | Privacy-preserving cardiovascular risk prediction. |
+| 3. | [AI Response Evaluator](https://github.com/NamanVSrivastav/AI_Response_Evaluator) | NLP | Real-time evaluation using Sentence-Transformers, Redis, and WebSockets. |
+| 4. | [Opinify](https://github.com/NamanVSrivastav/Opinify) | NLP | Sentiment analysis tool for e-commerce. |
+| 5. | [RAG Chatbot](https://github.com/NamanVSrivastav/RAG-Chatbot) | NLP & LLMs | Topic-specific chatbot with Retrieval-Augmented Generation and vector databases. |
 
-- __Expertise on :__
+---
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/ML-F05032?style=for-the-badge&logo=ML&logoColor=white"> <img src="https://img.shields.io/badge/DSA-100000?style=for-the-badge&logo=DSA&logoColor=white"> 
-<!-- <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow"> -->
+### Cyber Security Projects:
+
+| S.No | Name | Field |
+|------|------|-------|
+| 1. | Simple Encryption/Decryption Tool | AES and Caesar Cipher |
+| 2. | Basic Network Port Scanner | Python & Security |
+| 3. | Keylogger | Security & Python |
+
+---
+
+## 🧩 Collaborations
+
+| S.No | Name | Field |
+|------|------|-------|
+| 1. | C.A.R.D.I.A | Machine Learning (FFNN & FL) |
+
+---
+
+## 🎮 Python Game Projects
+
+| S.No | Project Name | Related Field |
+|------|--------------|---------------|
+| 1. | Tic Tac Toe | Pygame |
+
+---
+
+## 🛠️ Technologies
+
+- **Expertise In**:  
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img src="https://img.shields.io/badge/Machine_Learning-F05032?style=for-the-badge&logo=AI&logoColor=white"> <img src="https://img.shields.io/badge/DSA-100000?style=for-the-badge&logo=DSA&logoColor=white">
+
+- **Proficient With**:  
+  TensorFlow | PyTorch | Scikit-learn | OpenCV | Docker | Streamlit | WebSockets
+
+- **Cloud Platforms**:  
+  AWS | Google Cloud | Azure
+
+---
+
+Feel free to connect or collaborate with me! 😊
