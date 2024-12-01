@@ -5,7 +5,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NamanVSrivastav.NamanVSrivastav)
 
-### 📝 [Download My CV](https://drive.google.com/file/d/1RJB9fmUQshp9frbpnyAS7Y161oX_yIip/view?usp=sharing)  
+### 📝 [Download My CV](https://drive.google.com/file/d/1z605vT03J5QWweeGI8mEYsdet1MWUHZC/view?usp=sharing)  
 ### 💼 [Hire Me on LinkedIn](https://www.linkedin.com/in/namanvsrivatav/)  
 
 ---
