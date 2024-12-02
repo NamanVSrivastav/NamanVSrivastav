@@ -67,7 +67,7 @@
 ### Research & Leadership:
 
 - Conducted **6 months of research** on Federated Learning for cardiovascular disease prediction, culminating in a paper titled *"Heart Disease Prediction Using Federated Learning"*.
-- As **Vice President of R&D** at [Your University], led research projects in AI/ML, including:  
+- As **Member of R&D** at PSIT, led research projects in AI/ML, including:  
   - Federated Learning  
   - Quantum Machine Learning  
   - Natural Language Processing  
