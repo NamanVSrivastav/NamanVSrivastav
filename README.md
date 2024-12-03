@@ -39,7 +39,7 @@
 
 ---
 
-## 🌟 Academic Background & Research
+## 🌟 Academic Projects & Research
 
 ### Academic Projects:
 
