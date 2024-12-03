@@ -66,7 +66,7 @@
 
 ### Research & Leadership:
 
-- Conducted **6 months of research** on Federated Learning for cardiovascular disease prediction, culminating in a paper titled *"Heart Disease Prediction Using Federated Learning"*.
+- Conducted **6 months of research** on Federated Learning for cardiovascular disease prediction, culminating in a paper titled *"[Heart Disease Prediction Using Federated Learning](https://link.springer.com/chapter/10.1007/978-981-97-7862-1_3)"*.
 - As **Member of R&D** at PSIT, led research projects in AI/ML, including:  
   - Federated Learning  
   - Quantum Machine Learning  
